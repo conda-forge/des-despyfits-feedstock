@@ -26,6 +26,7 @@ requirements:
     - python
     - pip
     - des-imsupport-dev
+    - setuptools
   run:
     - python
     - numpy
